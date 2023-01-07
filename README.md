@@ -10,7 +10,7 @@ Helicopters
 ...
 ```
 
-`bout.sh` will choose 5 random drills from `drills.txt` and print
+The `bouts.sh` script will choose 5 random drills from `drills.txt` and print
 
 
 ```
