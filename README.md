@@ -1,5 +1,10 @@
 
 
+`drills.txt` contains one drill per line in any order.
+
+`bout.sh` will choose 5 random drills from `drills.txt` and print
+
+
 ```
 $ ./bouts.sh 
 Slide
