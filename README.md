@@ -1,4 +1,6 @@
+## Random guitar drills generator
 
+Generate random drills from a simple text file you provide.
 
 `drills.txt` contains one drill per line in any order.
 
@@ -11,7 +13,6 @@ Helicopters
 ```
 
 The `bouts.sh` script will choose 5 random drills from `drills.txt` and print
-
 
 ```
 $ ./bouts.sh 
