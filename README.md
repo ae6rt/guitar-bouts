@@ -17,7 +17,7 @@ The `bouts.sh` script will choose 5 random drills from `drills.txt` and print
 $ ./bouts.sh 
 Slide
 Fingerstyle
-Buzz intentionally enroute to minimum pressure
+Buzz fretted notes intentionally enroute to minimum finding pressure
 Vibrato
 2 notes per string scales
 
