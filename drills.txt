@@ -26,3 +26,4 @@ Build musical vocabulary
 Find a blues lick
 Buzz intentionally enroute to minimum pressure
 Find the scale around a triad
+Minimum pressure while modulating volume
