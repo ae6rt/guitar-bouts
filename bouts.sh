@@ -7,7 +7,7 @@ lines=$(wc -l drills.txt | awk '{print $1}')
 for j in $(seq 1 5); do 
 
    ran=$(od -vAn -N4 -t u4 < /dev/urandom) 
-   bout=$( echo $(( ran % 31 + 1)) )
+   bout=$( echo $(( ran % lines + 1)) )
 
    i=0
    while read line; do
